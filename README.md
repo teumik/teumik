@@ -43,6 +43,7 @@
 - VS Code
 - Git
 - GitHub
+- Postman
 - npm
 - Webpack
 - ESLint
@@ -53,7 +54,7 @@
 
 </details>
 
-<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
+<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/Snailedlt/devicon/16490be7b3ce5e8d30b2ce9f6983d3aaea426241/icons/postman/postman-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><span>&nbsp;</span><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
 
 ### Codewars
 
